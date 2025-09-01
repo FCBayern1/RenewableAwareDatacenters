@@ -39,3 +39,6 @@ build/
 *.csv
 *.log
 .DS_Store
+*.csv
+*.log
+.DS_Store
