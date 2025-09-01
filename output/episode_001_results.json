@@ -1,0 +1,66 @@
+{
+  "totalReward": 789.8541753239123,
+  "dcSelectionHistory": {
+    "0": [
+      491.0
+    ],
+    "1": [
+      524.0
+    ],
+    "2": [
+      433.0
+    ],
+    "3": [
+      481.0
+    ],
+    "4": [
+      499.0
+    ],
+    "5": [
+      515.0
+    ],
+    "6": [
+      510.0
+    ],
+    "7": [
+      498.0
+    ],
+    "8": [
+      595.0
+    ],
+    "9": [
+      455.0
+    ]
+  },
+  "stats": {
+    "totalGreenInitial": 8676000.0,
+    "totalGreenUsed": 1.1328791179337852E8,
+    "totalEnergyUsed": 2.7281611291898686E8,
+    "totalGreenGeneration": 1.0731665754028788E8,
+    "totalGreenResource": 1.1599265754028788E8,
+    "totalSurplus": -1.6628489122566772E8,
+    "greenEnergyRatio": 41.5253742094843,
+    "greenUtilizationRatio": 97.6681750342948,
+    "makespan": 7600.567659675037
+  },
+  "episode": 1,
+  "cloudletsPerBroker": {
+    "0": 491,
+    "1": 524,
+    "2": 433,
+    "3": 481,
+    "4": 499,
+    "5": 515,
+    "6": 510,
+    "7": 498,
+    "8": 595,
+    "9": 455
+  },
+  "config": {
+    "hosts": 25,
+    "dcNum": 10,
+    "cloudlets": 5000,
+    "vms": 250
+  },
+  "timestamp": "Tue Aug 26 08:25:38 BST 2025"
+}

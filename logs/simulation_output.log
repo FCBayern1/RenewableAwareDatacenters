@@ -1,0 +1,201 @@
+2025-09-01 15:10:22.742 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 413.5 kW
+  - Min/Max power: 0.0/1560.7 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:22.743 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 2 initialized with 0.8 kWh initial green energy
+2025-09-01 15:10:22.743 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.015
+2025-09-01 15:10:22.743 [main] INFO  j.green.bestfit.simulation_test - Created DC 0 - Initial: 0.8 kWh, Scaling: 0.015, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv
+2025-09-01 15:10:22.802 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_57_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 355.9 kW
+  - Min/Max power: 0.0/1521.5 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:22.802 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 4 initialized with 0.05 kWh initial green energy
+2025-09-01 15:10:22.802 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.001
+2025-09-01 15:10:22.802 [main] INFO  j.green.bestfit.simulation_test - Created DC 1 - Initial: 0.05 kWh, Scaling: 0.001, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_57_2021.csv
+2025-09-01 15:10:22.841 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_124_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 296.6 kW
+  - Min/Max power: 0.0/1561.0 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:22.841 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 6 initialized with 0.3 kWh initial green energy
+2025-09-01 15:10:22.841 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.008
+2025-09-01 15:10:22.841 [main] INFO  j.green.bestfit.simulation_test - Created DC 2 - Initial: 0.3 kWh, Scaling: 0.008, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_124_2021.csv
+2025-09-01 15:10:22.873 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 413.5 kW
+  - Min/Max power: 0.0/1560.7 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:22.873 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 8 initialized with 0.01 kWh initial green energy
+2025-09-01 15:10:22.873 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.002
+2025-09-01 15:10:22.873 [main] INFO  j.green.bestfit.simulation_test - Created DC 3 - Initial: 0.01 kWh, Scaling: 0.002, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv
+2025-09-01 15:10:22.910 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_57_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 355.9 kW
+  - Min/Max power: 0.0/1521.5 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:22.910 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 10 initialized with 0.02 kWh initial green energy
+2025-09-01 15:10:22.910 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.003
+2025-09-01 15:10:22.910 [main] INFO  j.green.bestfit.simulation_test - Created DC 4 - Initial: 0.02 kWh, Scaling: 0.003, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_57_2021.csv
+2025-09-01 15:10:22.941 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_124_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 296.6 kW
+  - Min/Max power: 0.0/1561.0 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:22.941 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 12 initialized with 0.5 kWh initial green energy
+2025-09-01 15:10:22.941 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.012
+2025-09-01 15:10:22.941 [main] INFO  j.green.bestfit.simulation_test - Created DC 5 - Initial: 0.5 kWh, Scaling: 0.012, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_124_2021.csv
+2025-09-01 15:10:22.977 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 413.5 kW
+  - Min/Max power: 0.0/1560.7 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:22.977 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 14 initialized with 0.1 kWh initial green energy
+2025-09-01 15:10:22.977 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.005
+2025-09-01 15:10:22.977 [main] INFO  j.green.bestfit.simulation_test - Created DC 6 - Initial: 0.1 kWh, Scaling: 0.005, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv
+2025-09-01 15:10:23.005 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_57_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 355.9 kW
+  - Min/Max power: 0.0/1521.5 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:23.006 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 16 initialized with 0.03 kWh initial green energy
+2025-09-01 15:10:23.006 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.002
+2025-09-01 15:10:23.006 [main] INFO  j.green.bestfit.simulation_test - Created DC 7 - Initial: 0.03 kWh, Scaling: 0.002, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_57_2021.csv
+2025-09-01 15:10:23.044 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_124_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 296.6 kW
+  - Min/Max power: 0.0/1561.0 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:23.044 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 18 initialized with 0.4 kWh initial green energy
+2025-09-01 15:10:23.044 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.01
+2025-09-01 15:10:23.044 [main] INFO  j.green.bestfit.simulation_test - Created DC 8 - Initial: 0.4 kWh, Scaling: 0.01, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_124_2021.csv
+2025-09-01 15:10:23.074 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Loaded wind power profile from /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv:
+  - Data points: 52559 (errors: 0)
+  - Average power: 413.5 kW
+  - Min/Max power: 0.0/1560.7 kW
+  - Duration: 8759.8 hours (365.0 days)
+2025-09-01 15:10:23.074 [main] INFO  j.g.Datacenters.DatacenterGreenAware - DatacenterGreenAware 20 initialized with 0.2 kWh initial green energy
+2025-09-01 15:10:23.074 [main] INFO  j.g.Datacenters.DatacenterGreenAware - Generation scaling factor set to 0.006
+2025-09-01 15:10:23.074 [main] INFO  j.green.bestfit.simulation_test - Created DC 9 - Initial: 0.2 kWh, Scaling: 0.006, CSV: /Users/joshua/Downloads/RenewableAwareDatacenters/src/main/java/joshua/green/Datacenters/Turbine_1_2021.csv
+2025-09-01 15:10:23.130 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - Queued 10000 timed cloudlets with timestamps
+2025-09-01 15:10:23.202 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=0.00: Cloudlet 0 -> DC 2 | Assignments: 1 | Queue: 1 | Green: 1080000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - === Periodic Statistics ===
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - Total Submitted: 1 | Total Completed: 0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC0: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=2880000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC1: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=180000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC2: Assigned=1, Completed=0, AvgResponse=0.00, GreenStock=1080000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC3: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=36000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC4: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=72000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC5: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1800000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC6: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=360000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC7: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=108000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC8: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1440000.0
+2025-09-01 15:10:23.203 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC9: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=720000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - === Periodic Statistics ===
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - Total Submitted: 1 | Total Completed: 0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC0: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=2880000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC1: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=180000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC2: Assigned=1, Completed=0, AvgResponse=0.00, GreenStock=1080000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC3: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=36000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC4: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=72000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC5: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1800000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC6: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=360000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC7: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=108000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC8: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1440000.0
+2025-09-01 15:10:23.216 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC9: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=720000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - === Periodic Statistics ===
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - Total Submitted: 1 | Total Completed: 0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC0: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=2880000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC1: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=180000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC2: Assigned=1, Completed=0, AvgResponse=0.00, GreenStock=1080000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC3: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=36000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC4: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=72000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC5: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1800000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC6: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=360000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC7: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=108000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC8: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1440000.0
+2025-09-01 15:10:23.223 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC9: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=720000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - === Periodic Statistics ===
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - Total Submitted: 1 | Total Completed: 0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC0: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=2880000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC1: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=180000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC2: Assigned=1, Completed=0, AvgResponse=0.00, GreenStock=1080000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC3: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=36000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC4: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=72000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC5: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1800000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC6: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=360000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC7: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=108000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC8: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1440000.0
+2025-09-01 15:10:23.227 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC9: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=720000.0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - === Periodic Statistics ===
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - Total Submitted: 1 | Total Completed: 0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC0: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=2880000.0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC1: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=180157.4
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC2: Assigned=1, Completed=0, AvgResponse=0.00, GreenStock=1080000.0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC3: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=36073.3
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC4: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=72472.3
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC5: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1800000.0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC6: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=360000.0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC7: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=108000.0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC8: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=1440000.0
+2025-09-01 15:10:23.228 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - DC9: Assigned=0, Completed=0, AvgResponse=0.00, GreenStock=720000.0
+2025-09-01 15:10:23.233 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 1 -> DC 5 | Assignments: 1 | Queue: 1 | Green: 1802957.9
+2025-09-01 15:10:23.235 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 2 -> DC 6 | Assignments: 1 | Queue: 1 | Green: 360183.1
+2025-09-01 15:10:23.236 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 3 -> DC 7 | Assignments: 1 | Queue: 1 | Green: 108314.9
+2025-09-01 15:10:23.237 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 4 -> DC 8 | Assignments: 1 | Queue: 1 | Green: 1442464.9
+2025-09-01 15:10:23.237 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 5 -> DC 9 | Assignments: 1 | Queue: 1 | Green: 720219.8
+2025-09-01 15:10:23.238 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 6 -> DC 5 | Assignments: 2 | Queue: 2 | Green: 1802957.9
+2025-09-01 15:10:23.238 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 7 -> DC 6 | Assignments: 2 | Queue: 2 | Green: 360183.1
+2025-09-01 15:10:23.239 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 8 -> DC 7 | Assignments: 2 | Queue: 2 | Green: 108314.9
+2025-09-01 15:10:23.239 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 9 -> DC 8 | Assignments: 2 | Queue: 2 | Green: 1442464.9
+2025-09-01 15:10:23.240 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 10 -> DC 9 | Assignments: 2 | Queue: 2 | Green: 720219.8
+2025-09-01 15:10:23.240 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 11 -> DC 2 | Assignments: 2 | Queue: 1 | Green: 1081971.9
+2025-09-01 15:10:23.241 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 12 -> DC 5 | Assignments: 3 | Queue: 3 | Green: 1802957.9
+2025-09-01 15:10:23.241 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 13 -> DC 6 | Assignments: 3 | Queue: 3 | Green: 360183.1
+2025-09-01 15:10:23.242 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 14 -> DC 7 | Assignments: 3 | Queue: 3 | Green: 108314.9
+2025-09-01 15:10:23.242 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 15 -> DC 8 | Assignments: 3 | Queue: 3 | Green: 1442464.9
+2025-09-01 15:10:23.243 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 16 -> DC 9 | Assignments: 3 | Queue: 3 | Green: 720219.8
+2025-09-01 15:10:23.243 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 17 -> DC 2 | Assignments: 3 | Queue: 2 | Green: 1081971.9
+2025-09-01 15:10:23.243 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 18 -> DC 5 | Assignments: 4 | Queue: 4 | Green: 1802957.9
+2025-09-01 15:10:23.244 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.59: Cloudlet 19 -> DC 6 | Assignments: 4 | Queue: 4 | Green: 360183.1
+2025-09-01 15:10:23.245 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 19.59: DC 4 - Power: 1749.8 W | Used: 33548.91 J (green: 33548.91 J, brown: 0.00 J) | Storage: 0.04 kWh | CPU: 52.6% | RAM: 0.0% | Surplus: -26285.71 J
+2025-09-01 15:10:23.247 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=19.79: Cloudlet 20 -> DC 7 | Assignments: 4 | Queue: 1 | Green: 122841.3
+2025-09-01 15:10:23.247 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 19.79: DC 6 - Power: 1757.5 W | Used: 34777.76 J (green: 34777.76 J, brown: 0.00 J) | Storage: 0.32 kWh | CPU: 53.3% | RAM: 0.0% | Surplus: -33832.16 J
+2025-09-01 15:10:23.248 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 19.79: DC 8 - Power: 1719.8 W | Used: 34031.74 J (green: 34031.74 J, brown: 0.00 J) | Storage: 0.00 kWh | CPU: 53.1% | RAM: 0.0% | Surplus: -33996.43 J
+2025-09-01 15:10:23.249 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 19.79: DC 10 - Power: 1705.4 W | Used: 33746.79 J (green: 33746.79 J, brown: 0.00 J) | Storage: 0.02 kWh | CPU: 53.7% | RAM: 0.0% | Surplus: -33519.70 J
+2025-09-01 15:10:23.278 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=20.74: Cloudlet 21 -> DC 8 | Assignments: 4 | Queue: 1 | Green: 1562762.5
+2025-09-01 15:10:23.284 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 20.94: DC 10 - Power: 1705.4 W | Used: 1956.24 J (green: 1956.24 J, brown: 0.00 J) | Storage: 0.02 kWh | CPU: 53.7% | RAM: 0.0% | Surplus: -1941.56 J
+2025-09-01 15:10:23.294 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=21.73: Cloudlet 22 -> DC 9 | Assignments: 4 | Queue: 1 | Green: 731497.8
+2025-09-01 15:10:23.304 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=22.71: Cloudlet 23 -> DC 2 | Assignments: 4 | Queue: 1 | Green: 1152146.9
+2025-09-01 15:10:23.315 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=23.70: Cloudlet 24 -> DC 5 | Assignments: 5 | Queue: 1 | Green: 1968295.8
+2025-09-01 15:10:23.322 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 24.35: DC 6 - Power: 1757.5 W | Used: 7391.67 J (green: 7391.67 J, brown: 0.00 J) | Storage: 0.32 kWh | CPU: 53.3% | RAM: 0.0% | Surplus: -7339.19 J
+2025-09-01 15:10:23.325 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=24.69: Cloudlet 25 -> DC 6 | Assignments: 5 | Queue: 1 | Green: 370888.6
+2025-09-01 15:10:23.328 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 24.89: DC 8 - Power: 1719.8 W | Used: 8425.49 J (green: 6015.65 J, brown: 2409.84 J) | Storage: 0.00 kWh | CPU: 53.1% | RAM: 0.0% | Surplus: -8422.92 J
+2025-09-01 15:10:23.336 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=25.67: Cloudlet 26 -> DC 7 | Assignments: 5 | Queue: 1 | Green: 127438.6
+2025-09-01 15:10:23.347 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=26.66: Cloudlet 27 -> DC 8 | Assignments: 5 | Queue: 1 | Green: 1597725.4
+2025-09-01 15:10:23.353 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 27.27: DC 10 - Power: 1705.4 W | Used: 8895.89 J (green: 8895.89 J, brown: 0.00 J) | Storage: 0.02 kWh | CPU: 53.7% | RAM: 0.0% | Surplus: -8880.26 J
+2025-09-01 15:10:23.357 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=27.65: Cloudlet 28 -> DC 9 | Assignments: 5 | Queue: 1 | Green: 734637.6
+2025-09-01 15:10:23.365 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=28.63: Cloudlet 29 -> DC 2 | Assignments: 5 | Queue: 1 | Green: 1172740.9
+2025-09-01 15:10:23.376 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=29.62: Cloudlet 30 -> DC 5 | Assignments: 6 | Queue: 1 | Green: 2010230.6
+2025-09-01 15:10:23.378 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 29.82: DC 6 - Power: 1757.5 W | Used: 9629.87 J (green: 9629.87 J, brown: 0.00 J) | Storage: 0.32 kWh | CPU: 53.3% | RAM: 0.0% | Surplus: -9576.88 J
+2025-09-01 15:10:23.384 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=30.61: Cloudlet 31 -> DC 6 | Assignments: 6 | Queue: 1 | Green: 373505.4
+2025-09-01 15:10:23.385 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 30.81: DC 8 - Power: 1719.8 W | Used: 8490.79 J (green: 872.69 J, brown: 7618.09 J) | Storage: 0.00 kWh | CPU: 53.1% | RAM: 0.0% | Surplus: -8488.22 J
+2025-09-01 15:10:23.392 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=31.60: Cloudlet 32 -> DC 7 | Assignments: 6 | Queue: 1 | Green: 131921.8
+2025-09-01 15:10:23.396 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=38.62: Cloudlet 33 -> DC 8 | Assignments: 6 | Queue: 1 | Green: 1629264.1
+2025-09-01 15:10:23.397 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=38.62: Cloudlet 34 -> DC 9 | Assignments: 6 | Queue: 1 | Green: 736944.0
+2025-09-01 15:10:23.397 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=38.62: Cloudlet 35 -> DC 2 | Assignments: 6 | Queue: 1 | Green: 1178995.0
+2025-09-01 15:10:23.397 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=38.62: Cloudlet 36 -> DC 5 | Assignments: 7 | Queue: 1 | Green: 2027117.0
+2025-09-01 15:10:23.398 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=38.62: Cloudlet 37 -> DC 6 | Assignments: 7 | Queue: 1 | Green: 374120.0
+2025-09-01 15:10:23.398 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=38.62: Cloudlet 38 -> DC 7 | Assignments: 7 | Queue: 1 | Green: 132229.3
+2025-09-01 15:10:23.398 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=38.62: Cloudlet 39 -> DC 8 | Assignments: 7 | Queue: 2 | Green: 1629264.1
+2025-09-01 15:10:23.398 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 38.62: DC 8 - Power: 1719.8 W | Used: 11728.72 J (green: 1205.72 J, brown: 10523.00 J) | Storage: 0.00 kWh | CPU: 53.1% | RAM: 0.0% | Surplus: -10558.90 J
+2025-09-01 15:10:23.399 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 38.65: DC 10 - Power: 1705.4 W | Used: 18427.96 J (green: 18427.96 J, brown: 0.00 J) | Storage: 0.01 kWh | CPU: 53.7% | RAM: 0.0% | Surplus: -18389.15 J
+2025-09-01 15:10:23.399 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 38.79: DC 6 - Power: 1757.5 W | Used: 15757.07 J (green: 15757.07 J, brown: 0.00 J) | Storage: 0.33 kWh | CPU: 53.3% | RAM: 0.0% | Surplus: -15557.96 J
+2025-09-01 15:10:23.400 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 38.82: DC 4 - Power: 1749.8 W | Used: 11930.28 J (green: 11930.28 J, brown: 0.00 J) | Storage: 0.04 kWh | CPU: 52.6% | RAM: 0.0% | Surplus: -11923.60 J
+2025-09-01 15:10:23.403 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=39.50: Cloudlet 40 -> DC 2 | Assignments: 7 | Queue: 1 | Green: 1197195.7
+2025-09-01 15:10:23.435 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=41.00: Cloudlet 41 -> DC 9 | Assignments: 7 | Queue: 1 | Green: 741190.1
+2025-09-01 15:10:23.435 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 41.00: DC 4 - Power: 1749.8 W | Used: 2284.58 J (green: 2284.58 J, brown: 0.00 J) | Storage: 0.03 kWh | CPU: 52.6% | RAM: 0.0% | Surplus: -1909.83 J
+2025-09-01 15:10:23.436 [main] INFO  j.g.Datacenters.DatacenterGreenAware - 41.20: DC 10 - Power: 1705.4 W | Used: 2050.82 J (green: 2050.82 J, brown: 0.00 J) | Storage: 0.01 kWh | CPU: 53.7% | RAM: 0.0% | Surplus: -1967.02 J
+2025-09-01 15:10:23.436 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=41.70: Cloudlet 42 -> DC 8 | Assignments: 8 | Queue: 1 | Green: 1683810.2
+2025-09-01 15:10:23.441 [main] INFO  j.green.bestfit.GlobalBrokerBestFit - t=42.46: Cloudlet 43 -> DC 9 | Assignments: 8 | Queue: 1 | Green: 742479.8

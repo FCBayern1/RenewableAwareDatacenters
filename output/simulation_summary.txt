@@ -1,0 +1,22 @@
+Federated RL Green Energy Scheduling - Simulation Summary
+======================================================================
+Total Episodes: 50
+Data Centers: 10
+Hosts per DC: 25
+Total VMs: 250
+Total Cloudlets: 5000
+Total Time: 90.79 minutes
+Python Server: localhost:5001
+Completed at: Tue Aug 26 09:54:30 BST 2025
+
+DC Selection Summary:
+  DC 0: Total=13611, Avg per episode=272.22
+  DC 1: Total=14412, Avg per episode=288.24
+  DC 2: Total=14278, Avg per episode=285.56
+  DC 3: Total=12308, Avg per episode=246.16
+  DC 4: Total=15409, Avg per episode=308.18
+  DC 5: Total=19457, Avg per episode=389.14
+  DC 6: Total=16481, Avg per episode=329.62
+  DC 7: Total=25978, Avg per episode=519.56
+  DC 8: Total=76211, Avg per episode=1524.22
+  DC 9: Total=41905, Avg per episode=838.10
